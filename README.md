@@ -5,7 +5,8 @@ Data Visualization Also helps to understand the data and help us to perform appr
 
 Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
-> Geoplotlib
+Geoplotlib
+
 
 
 
@@ -17,7 +18,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 ![picture](https://pbs.twimg.com/media/C3HDC9eWIAUTrYE.jpg)
 
-> Matplotlib
+Matplotlib
+
 
 
 
@@ -29,7 +31,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 ![picture](https://www.freecodecamp.org/news/content/images/size/w2000/2020/05/bank_data.png)
 
-> Seaborn
+Seaborn
+
 
 
 
@@ -41,7 +44,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 ![picture](https://miro.medium.com/max/2060/1*3VgCwcZraA0u5hMHpRhJcw.png)
 
-> Plotly
+Plotly
+
 
 
 
@@ -53,7 +57,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
    ![picture](https://raw.githubusercontent.com/cldougl/plot_images/add_r_img/plotly_2017.png)
 
-> missingno
+missingno
+
 
 
 
@@ -65,7 +70,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 ![picture](https://www.residentmar.io/static/post_assets/missingno/missingno_matrix.png)
 
-> Gleam
+Gleam
+
 
 
 
@@ -77,7 +83,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 ![picture](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/119/102/datas/original.png)
 
-> pygal
+pygal
+
 
 
 
@@ -89,7 +96,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 ![picture](https://i.stack.imgur.com/LmdJs.png)
 
-> Leather
+Leather
+
 
 
 
@@ -101,7 +109,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 ![picture](https://images.ctfassets.net/fi0zmnwlsnja/43Z5HPVmIApn9x8xVhw3Dw/2ae8c3b511e8ff0f9cb9ae2db8172de6/viz-libraries-10.png)
 
-> ggplot
+ggplot
+
 
 
 
@@ -113,7 +122,8 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 ![picture](https://images.ctfassets.net/fi0zmnwlsnja/1FN0OM2Vd9VhcfTDx2Szzi/3bfd64ded32bc0261b8a344f9a363f3e/viz-libraries-03.png)
 
-> Bokeh
+Bokeh
+
 
 
 
