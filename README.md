@@ -1,5 +1,6 @@
 #  Data Visualization Using Python
 
+Python has very rich libraries which can help to read and visualize the data with customizable options.
 The main aim of Data Visualization is to present the data in a pictorial or graphical format. It enables stakeholders and decision makers to analyze data visually. The data in a graphical format allows them to identify new trends and patterns easily.
 Data Visualization Also helps to understand the data and help us to perform appropreat data analysis and extraction. It also reveal concealed relations between the attributes.
 
@@ -140,6 +141,6 @@ Among these Matplotlib is God Father of visualization libraries. Matplotlib was 
 
 In This Code I have discussed in detail about each and every library which helps any begineer or veteran to learn exactly how these libraries work and there profound uses 
 
- cation: This project is just meant to Show how to visualize the data using different python libraries .it is not meant to be a robust financial analysis or be taken as financial advice.
+Caution :no_entry_sign:: This project is just meant to Show how to visualize the data using different python libraries .It is not meant to be a robust financial analysis or be taken as financial advice. This code can be used as reference for furure projects. For further understanding of individual libraries please refer **respective documents**.
 
-Understanding finance is a complex task, visualizing can make it easy to understand and predict future circumstances. Python has very rich libraries which can help to read and visualize the data with customizable options. In this project we will explore the methods of analyzing financial data using libraries such as PANDAS,Matplotlib, SEABORN ,NUMPY. THE PROJECT IS 
+Understanding finance is a complex task, visualizing can make it easy to understand and predict future circumstances.
