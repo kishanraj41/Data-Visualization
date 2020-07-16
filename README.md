@@ -148,8 +148,10 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 Among these Matplotlib is God Father of visualization libraries. Matplotlib was the first Python data visualization library, many other libraries are built on top of it or designed to work in tandem with it during analysis. Some libraries like pandas and Seaborn are “wrappers” over matplotlib. They allow you to access a number of matplotlib’s methods with less code.
 
-In This Code I have discussed in detail about each and every library which helps to understand how these libraries work and there profound uses 
+In This Code I have discussed in detail about each and every library which helps to understand how these libraries work and there profound uses.
+1. Fist code explains how to visualize Finacial data.
+2. Second code Explores Iris data set and explains how to visualize relations. 
 
-Caution :no_entry_sign:: This project is just meant to Show how to visualize the data using different python libraries .It is not meant to be a robust financial analysis or be taken as financial advice. This code can be used as reference for furure projects. For further understanding of individual libraries please refer **respective documents**.
+Disclamir :no_entry_sign:: This project is just meant to Show how to visualize the data using different python libraries .It is not meant to be a robust financial analysis or be taken as financial advice. This code can be used as reference for furure projects. For further understanding of individual libraries please refer **respective documents**.
 
 Understanding finance is a complex task, visualizing can make it easy to understand and predict future circumstances.
