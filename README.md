@@ -6,6 +6,7 @@ Data Visualization Also helps to understand the data and help us to perform appr
 Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 > geoplotlib
+![picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmatplotlib.org%2F&psig=AOvVaw3cGWzHKbBRI6am9JPZUUwt&ust=1594999736592000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLib_ZiL0uoCFQAAAAAdAAAAABAD)
 
 > Matplotlib
 
