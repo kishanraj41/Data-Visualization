@@ -15,7 +15,7 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 
 
-![picture](https://d3i71xaburhd42.cloudfront.net/b0c22b778cf65b4ae043b753ceeaec1f2517ad8c/13-Figure11-1.png)
+![picture](https://pbs.twimg.com/media/C3HDC9eWIAUTrYE.jpg)
 
 > Matplotlib
 
@@ -27,7 +27,7 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 
 
-![picture](https://matplotlib.org/_images/sphx_glr_histogram_thumb.png)
+![picture](https://pbs.twimg.com/media/C3HDC9eWIAUTrYE.jpg)
 
 > Seaborn
 
