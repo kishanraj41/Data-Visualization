@@ -51,7 +51,7 @@ Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
 
 
-![picture](https://raw.githubusercontent.com/cldougl/plot_images/add_r_img/plotly_2017.png)
+    ![picture](https://raw.githubusercontent.com/cldougl/plot_images/add_r_img/plotly_2017.png)
 
 > missingno
 
