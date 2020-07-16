@@ -5,10 +5,19 @@ Data Visualization Also helps to understand the data and help us to perform appr
 
 Frequently Used Python Libraries for Visualization :chart_with_upwards_trend: :
 
-> geoplotlib
+> Geoplotlib
+
+
+
+
+
+
+
+
+
+![picture](https://d3i71xaburhd42.cloudfront.net/b0c22b778cf65b4ae043b753ceeaec1f2517ad8c/13-Figure11-1.png)
 
 > Matplotlib
-
 
 
 
